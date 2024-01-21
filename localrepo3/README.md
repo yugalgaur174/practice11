@@ -1,1 +1,0 @@
-# This is practice repository and practice 2
